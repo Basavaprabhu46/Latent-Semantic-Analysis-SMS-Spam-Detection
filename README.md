@@ -54,7 +54,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Usage
 
 1. Place `spam.csv` in the same directory as the notebook
-2. Open `spam_filter_claudev2.ipynb`
+2. Open `spam_filter.ipynb`
 3. Run all cells top to bottom
 
 Dataset format expected:
