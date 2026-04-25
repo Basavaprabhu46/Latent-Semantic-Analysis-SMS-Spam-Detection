@@ -36,7 +36,7 @@ Built as a mini-project for **UE24MA241B – Linear Algebra and Its Applications
 ## Project Structure
 
 ```
-├── spam_filter_claudev2.ipynb   # Main notebook
+├── spam_filter.ipynb            # Main notebook
 ├── spam.csv                     # Dataset (SMS Spam Collection)
 └── README.md
 ```
